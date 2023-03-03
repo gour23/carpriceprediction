@@ -26,4 +26,8 @@ pip install scikit-learn
 pip install django
 
 
+here you can see the step by step details on how the preprocessing is done and at the end we got our cleaned data and saved it as (cleaned_data_cardekho.csv) file.
+
+
+
 
