@@ -18,11 +18,11 @@ here we see the complete preprocessing on dataset.
 Note : Before running this jupyter notebook please make sure to install all the third party python modules used in here and further.
 
 
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install seaborn
-pip install scikit-learn
+pip install pandas,
+pip install numpy,
+pip install matplotlib,
+pip install seaborn,
+pip install scikit-learn,
 pip install django
 
 
