@@ -17,7 +17,7 @@ here we see the complete preprocessing on dataset.
 
 Note : Before running this jupyter notebook please make sure to install all the third party python modules used in here and further.
 
-[pip install pandas,
+[ pip install pandas,
 pip install numpy,
 pip install matplotlib,
 pip install seaborn,
@@ -25,8 +25,22 @@ pip install scikit-learn,
 pip install django ]
 
 
-
 here you can see the step by step details on how the preprocessing is done and at the end we got our cleaned data and saved it as (cleaned_data_cardekho.csv) file.
+
+we have cleaned the data now it's time to create the model.
+click on the  ( model creation.ipynb ) file. 
+
+![5](https://user-images.githubusercontent.com/91954903/222787916-1271612d-6d0c-4310-87f7-45504bc0ef8d.png)
+
+
+here we see the complete step by step details on how we created model and saved it as a ( random_forest_regression_model.pkl ) file.
+
+Now Model is created.
+
+go back to the path where all files are stored
+
+![1](https://user-images.githubusercontent.com/91954903/222779266-7ccf5a69-98cd-42f8-b466-2b1d00a5c13c.png)
+
 
 
 
