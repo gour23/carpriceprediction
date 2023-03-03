@@ -17,13 +17,13 @@ here we see the complete preprocessing on dataset.
 
 Note : Before running this jupyter notebook please make sure to install all the third party python modules used in here and further.
 
-
-pip install pandas,
+[pip install pandas,
 pip install numpy,
 pip install matplotlib,
 pip install seaborn,
 pip install scikit-learn,
-pip install django
+pip install django ]
+
 
 
 here you can see the step by step details on how the preprocessing is done and at the end we got our cleaned data and saved it as (cleaned_data_cardekho.csv) file.
